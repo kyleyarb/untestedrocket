@@ -26,7 +26,7 @@ body {
     background-image: url("https://www.untestedrocket.com/golden_black_hole.jpg");
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain;
+    background-size: cover;
         }
         
 }
